@@ -1,4 +1,8 @@
-hola terrricolas
+codes para recordar
 
-hola a todoas
+ git status -> revisar 
+ git add    -> ---------
+ git add . -> agregar todo
+ git commit -m "anotaciones"
+ git push -> subir a la nube
 
